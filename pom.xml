@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ml.dhoomilsheta.app</groupId>
-    <artifactId>kafka-twitter-producer</artifactId>
+    <artifactId>Twitter</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>kafka-twitter-producer</name>
+    <name>Twitter</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
